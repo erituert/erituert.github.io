@@ -1221,9 +1221,7 @@ input[type="radio"] + label:before {
     display: block; }
   img.profile {
     border-radius: 50%;
-    display: block; 
-    max-height: 70%;
-    max-width: 70%;}
+    display: block; }
   .image.left, .image.right {
     max-width: 40%; }
     .image.left img, .image.right img {
@@ -2144,7 +2142,7 @@ button,
     margin: 0 0 2em 4em;
     width: 50%; }
     #banner .image img {
-      height: 100%;
+      height: 70%;
       -moz-object-fit: cover;
       -webkit-object-fit: cover;
       -ms-object-fit: cover;
@@ -2153,7 +2151,7 @@ button,
       -webkit-object-position: center;
       -ms-object-position: center;
       object-position: center;
-      width: 100%; }
+      width: 70%; }
   @media screen and (orientation: portrait) {
     #banner {
       -moz-flex-direction: column-reverse;
