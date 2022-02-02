@@ -1221,7 +1221,9 @@ input[type="radio"] + label:before {
     display: block; }
   img.profile {
     border-radius: 50%;
-    display: block; }
+    display: block; 
+    max-height: 70%;
+    max-width: 70%;}
   .image.left, .image.right {
     max-width: 40%; }
     .image.left img, .image.right img {
