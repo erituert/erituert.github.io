@@ -1221,9 +1221,11 @@ input[type="radio"] + label:before {
     display: block; }
   img.profile {
     border-radius: 10%;
-    display: block; }
+    display: block;
+    background-position: top;
+  }
   .image.left, .image.right {
-    max-width: 40%; }
+    max-width: 45%; }
     .image.left img, .image.right img {
       width: 100%; }
   .image.left {
@@ -2142,7 +2144,7 @@ button,
     margin: 0 0 2em 4em;
     width: 50%; }
     #banner .image img {
-      height: 70%;
+      height: 80%;
       -moz-object-fit: cover;
       -webkit-object-fit: cover;
       -ms-object-fit: cover;
@@ -2150,7 +2152,7 @@ button,
       -moz-object-position: center;
       -webkit-object-position: center;
       -ms-object-position: center;
-      object-position: center;
+      object-position: top;
       width: 70%; }
   @media screen and (orientation: portrait) {
     #banner {
