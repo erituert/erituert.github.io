@@ -22,12 +22,12 @@ repository               : "erituert/erituert.github.io"
 author:
   # Biographic information
   avatar           : "profile_erg.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Esther Rituerto-González"
   pronouns         : # example: "she/her"  
   bio              : "Applied AI for Social Good"
   location         : "Munich, Germany"
-  employer         : ""
-  uri              : # URL
+  employer         : # ""
+  uri              : "https://erituert.github.io/"
   email            : "esther.rituerto.g@gmail.com" 
 
   # Academic websites

@@ -4,16 +4,16 @@ main:
   #   url: /publications/
 
   - title: "Publications"
-    url: https://scholar.google.es/citations?user=x5_mEvMAAAAJ&hl=en
-
-#   - title: "Talks"
-#     url: /talks/    
+    url: https://scholar.google.es/citations?user=x5_mEvMAAAAJ&hl=en   
 
 #   - title: "Teaching"
 #     url: /teaching/    
     
+#  - title: "Portfolio"
+#    url: /portfolio/
+
   - title: "News"
-    url: /portfolio/
+    url: /talks/ 
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
