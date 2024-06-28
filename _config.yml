@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Esther's Homepage'"
+title                    : "Esther's Homepage"
 title_separator          : "-"
 name                     : &name "Esther Rituerto-González"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "erituert/erituert.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_erg.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
