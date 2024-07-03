@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "[Under Development] About"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-![Illustration](/images/sdgs_ai.png){: .align-right width="300px"}
+![Illustration](/images/sdg_ai.png){: .align-right width="300px"}
 
 
 I am a Research Scientist committed to driving positive change in society through the use of 🤖 Artificial Intelligence. My interests have driven me to work in the fields of 🔊 Speech Technologies, 🎭 Affective Computing, 🟣 Gender Equality, 🌍 Climate Action and 🧠 Mental Health.
