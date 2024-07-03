@@ -1,16 +1,20 @@
 ---
 permalink: /
-title: "[Under Development] About me"
+title: "[Under Development] About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-![Illustration](/images/image-alignment-150x150.jpg){: .align-right width="300px"}
+![Illustration](/images/sdgs_ai.png){: .align-right width="300px"}
 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Research Scientist committed to driving positive change in society through the use of 🤖 Artificial Intelligence. My interests have driven me to work in the fields of 🔊 Speech Technologies, 🎭 Affective Computing, 🟣 Gender Equality, 🌍 Climate Action and 🧠 Mental Health.
+
+I graduated in 2023 with a PhD in Signal Processing Engineering from [University Carlos III of Madrid (UC3M)](https://www.uc3m.es/home) supervised by [Prof. Carmen Peláez-Moreno}(https://scholar.google.es/citations?user=PXEKOr8AAAAJ&hl=en) as part of the [UC3M4Safety Team](https://www.uc3m.es/ss/Satellite/INST-EstudiosGenero/es/TextoDosColumnas/1371396308527/UC3M4Safety). In UC3M I coursed also a M.Eng. in Multimedia Communications and a B.Eng. in Audiovisual Systems Engineering.
+
+As part of my Postdoctoral time, I've worked in the [Chair of Embedded Intelligence for Health Care and Wellbeing](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/eihw/#:~:text=Bj%C3%B6rn%20Schuller%2C%20Prof.) in the University of Augsburg (Germany) led by [Prof. Björn Schuller](https://scholar.google.com/citations?user=TxKNCSoAAAAJ&hl=en), [Group of Precision Psychiatry](https://www.lmu-klinikum.de/psychiatrie-und-psychotherapie/forschung-research/working-groups/precision-psychiatry/7ef67d79b4ad4804) of Klinikum LMU in Munich (Germany) and [Max Planck Institute of Psychiatry](https://www.psych.mpg.de/2571270/precision-psychiatry), both led by [Prof. Dr. Nikolaos Koutsouleris](https://scholar.google.de/citations?user=dPzed4kAAAAJ&hl=de); and soon in the [Artificial Intelligence in Mental Health (AIM)](https://www.kcl.ac.uk/research/artificial-intelligence-in-mental-health-aim) group in Kings College London.
 
 A data-driven personal website
 ======
