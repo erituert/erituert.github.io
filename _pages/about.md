@@ -19,4 +19,4 @@ As a Postdoctoral Researcher, I've worked in the [Chair of Embedded Intelligence
 
 For more info
 ------
-More info, take a look at my other pages that can be found next to the profile image, and do not hesitate in dropping me a line if you're interested in collaborating 🤝
+Take a look at my other pages that can be found next to the profile image, and do not hesitate in dropping me a line if you're interested in collaborating 🤝

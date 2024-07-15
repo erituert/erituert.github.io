@@ -21,7 +21,7 @@ repository               : "erituert/erituert.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_erg.jpg"
+  avatar           : "profile_erg_pink.jpg"
   name             : "Esther Rituerto-González"
   pronouns         : # example: "she/her"  
   bio              : "Applied AI for Social Good"
