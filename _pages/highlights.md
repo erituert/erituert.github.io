@@ -14,7 +14,7 @@ redirect_from:
 **Interview, 2024**: "Using AI to prevent Gender-based Violence" by Javiera Mateluna.
 [Cooperativa Ciencia, Chile Radio, _in Spanish_](https://www.youtube.com/watch?v=09ozHZrHXro)
 
-**Article, 2024**: "Artificial Intelligence to Detect Fear and Danger in the Voice of Battered Women" by Violeta Molina Gallardo.
+**Article, 2024**: "Artificial Intelligence to Detect Fear and Danger in the Voice of Abused Women" by Violeta Molina Gallardo.
 [News EFE Agency Spain, _in Spanish_](https://efe.com/espana/2024-04-01/inteligencia-artificial-mujeres-maltratadas-violencia-machista/)
 [Society News, COPE Spain, _in Spanish_](https://www.cope.es/actualidad/sociedad/noticias/inteligencia-artificial-para-detectar-miedo-peligro-voz-mujeres-maltratadas-20240331_3222151) 
 
