@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "¡Hola! I'm Esther"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 ![SDGs + AI Illustration](/images/sdg_ai.png){: .align-right width="300px"}
 
 
-I am a Research Scientist committed to driving positive change in society through the use of 🤖 Artificial Intelligence (AI). My interests have driven me to work in the fields of 🔊 Speech Technologies, 🎭 Affective Computing, 🟣 Gender Equality, 🌍 Climate Action and 🧠 Mental Health. My main goal relies on applying AI in a fair, explainable, trustworthy and aligned manner.
+I am a Data Scientist committed to driving positive change in society through the use of 🤖 Artificial Intelligence (AI). My interests have driven me to work in the fields of 🔊 Speech Technologies, 🎭 Affective Computing, 🟣 Gender Equality, 🌍 Climate Action and 🧠 Mental Health. My main goal relies on applying AI in a fair, explainable, trustworthy and aligned manner.
 
 I graduated in 2023 with a PhD in Signal Processing Engineering (_Cum Laude_) from [University Carlos III of Madrid (UC3M)](https://www.uc3m.es/home) (Spain ☀️) supervised by [Prof. Carmen Peláez-Moreno](https://scholar.google.es/citations?user=PXEKOr8AAAAJ&hl=en) as part of the 💜 [UC3M4Safety Team](https://www.uc3m.es/ss/Satellite/INST-EstudiosGenero/es/TextoDosColumnas/1371396308527/UC3M4Safety). In UC3M I also coursed a M.Eng. in Multimedia Communications and a B.Eng. in Audiovisual Systems.
 
