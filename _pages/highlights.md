@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## 📻 Press
-**Article, 2024**: "Why is technology failing to stop gender-based violence?" by Antonio M. Figueras.
+**Article, 2024**: "Why is technology failing to stop gender-based violence?"  by Antonio M. Figueras.
 [Escudo Digital, Spain, _in Spanish_](https://www.escudodigital.com/interior/por-tecnologia-no-consigue-frenar-violencia-genero_60028_102.html)
 
 **Interview, 2024**: "Using AI to prevent Gender-based Violence" by Javiera Mateluna.
