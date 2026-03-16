@@ -26,10 +26,10 @@ redirect_from:
 **Award, 2023**: Second Award of the Spanish Government Delegation against Gender Violence to Doctoral Theses on Violence against Women _(79/100 points)_
 [PhD Thesis Published in Ministry of Equality, Spain, _in Spanish_](https://violenciagenero.igualdad.gob.es/violenciaencifras/estudios/tesis/computacion-afectiva-multimodal-en-dispositivos-wearable-con-aplicaciones-en-la-deteccion-de-la-violencia-de-genero/)
 
-**Scholarship, 2021**: Short-stay Mobility Grant for members of the FPU program.
+**Scholarship, 2021**: Short-stay (2-month) Mobility Grant for members of the FPU program.
 Ministry of Science, Innovation and Universities, Spain. 
 
-**Scholarship, 2021**: Short-term Predoctoral Mobility Grant.
+**Scholarship, 2021**: Short-term (3-month) Predoctoral Mobility Grant.
 Deutscher Akademischer Austauschdienst ([DAAD](https://www.daad.de/de/)), Germany
 
 **Scholarship, 2019**: University Teacher in Training, Predoctoral Research Scholarship FPU Program (FPU 19/00448) (_Acceptance Rate=37%_).
