@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![SDGs + AI Illustration](/images/sdg_ai.png){: .align-right width="280px"}
+![SDGs + AI Illustration](/images/sdg_ai.png){: .align-right width="290px"}
 
 
 I am a Researcher & Data Scientist committed to driving positive change in society through the use of 🤖 Artificial Intelligence (AI). My interests have driven me to work in the fields of 🔊 Speech Technologies, 🎭 Affective Computing, 🟣 Gender Equality, 🌍 Climate Action and 🧠 Mental Health. My main goal relies on applying AI in a fair, explainable, trustworthy and aligned manner.
