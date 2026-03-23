@@ -18,7 +18,7 @@ As a Postdoctoral Researcher, I am currently working in the 🔵 [Chair of Healt
 Besides, I have worked in the Groups of:
 - 🟩 Precision Psychiatry of [LMU Klinikum](https://www.lmu-klinikum.de/psychiatrie-und-psychotherapie/forschung-research/working-groups/precision-psychiatry/7ef67d79b4ad4804) and 🔷 [Max Planck Institute of Psychiatry](https://www.psych.mpg.de/2571270/precision-psychiatry) in Munich, led by [Prof. Dr. Nikolaos Koutsouleris](https://scholar.google.de/citations?user=dPzed4kAAAAJ&hl=de) (2023-2025);  
 - 🟥 [Artificial Intelligence in Mental Health (AIM)](https://www.kcl.ac.uk/research/artificial-intelligence-in-mental-health-aim) at Kings College London, UK 💂 (August, 2024);
-- 🟣 Chair of Embedded Intelligence for Health Care and Wellbeing (EIHW) at the University of Augsburg, Germany (recurring visitor during 2021-2023).
+- 🟣 Chair of Embedded Intelligence for Health Care and Wellbeing (EIHW) at the University of Augsburg, Germany (recurring visitor, 2021-2023).
 
 
 
